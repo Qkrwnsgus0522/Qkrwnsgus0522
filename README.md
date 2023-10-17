@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1>Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Junhyun, BackEnd developer from <img width="15" src="https://img.icons8.com/fluency/48/south-korea-circular.png" alt="south-korea-circular"/> <b>Seoul, South Korea</b>
+
 <!--
 **Qkrwnsgus0522/Qkrwnsgus0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
