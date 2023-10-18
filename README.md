@@ -2,21 +2,9 @@
 
 <h1>Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Junhyun, BackEnd developer from <img width="15" src="https://img.icons8.com/fluency/48/south-korea-circular.png" alt="south-korea-circular"/> <b>Seoul, South Korea</b>
-<!--
-<h3>Things I code with</h3>
-<p>
-  
-</p>
--->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qkrwnsgus0522&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkrwnsgus0522&layout=compact&theme=tokyonight)
-|----|----|
-
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qkrwnsgus0522&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkrwnsgus0522&layout=compact&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=Qkrwnsgus0522&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+|----|----|----|
 
 <!--
 **Qkrwnsgus0522/Qkrwnsgus0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
