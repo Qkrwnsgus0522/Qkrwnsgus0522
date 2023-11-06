@@ -6,7 +6,7 @@
 Welcome to my page!  
 I'm Junhyun, BackEnd developer from <img width="15" src="https://img.icons8.com/fluency/48/south-korea-circular.png" alt="south-korea-circular"/> <b>Seoul, South Korea</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qkrwnsgus0522&show_icons=true&theme=tokyonight)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qkrwnsgus0522&show_icons=true&theme=tokyonight&rank_icon=github)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Qkrwnsgus0522&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkrwnsgus0522&layout=compact&theme=tokyonight)
 
